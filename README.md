@@ -18,7 +18,7 @@ This repository contains my hands-on projects, scripts, and experiments in the f
 
 ---
 
-### 2. 🔍 Port Scanner (Coming soon)
+### 2. 🔍 Port Scanner
 - A tool to scan open ports on a target machine.
 
 ---
